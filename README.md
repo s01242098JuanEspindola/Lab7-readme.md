@@ -7,3 +7,6 @@ According to the instructions I found a file in SVG format, and the size of the 
 ### Object Oriented Programming (OOP) 
 #### What are the methods and the property of the shark class? 
 Methods are a special type of function that is defined inside a class. These functions are indented under the Shark class, they are called methods. Methods are a special type of function that is defined inside a class. A class called Shark that has two associated functions
+### What is the purpose of a constructor? 
+Also called the __init__ method, you can use it to initialize data. It is the first definition of any class.It is executed as soon as an object of a class is instantiated.
+
