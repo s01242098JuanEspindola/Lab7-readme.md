@@ -13,3 +13,5 @@ Methods are a special type of function that is defined inside a class. These fun
 Also called the __init__ method, you can use it to initialize data. It is the first definition of any class.It is executed as soon as an object of a class is instantiated.
 ### What is a class vs. an object and what does it mean to "instantiate an object from a class?
 The argument to these functions is the word self, which is a reference to objects that are made based on this class. To reference instances (or objects) of the class, self will always be the first parameter, but it need not be the only one.Thus an object is a specific instance of a class; contains real values instead of variables. The class is one of the defining ideas of object-oriented programming.
+### Unified Modeling Language (UML)
+### Define OMG and describe the purpose of UML
