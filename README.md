@@ -6,4 +6,4 @@ The main purpose of compressing a file is to make it smaller so that it takes up
 According to the instructions I found a file in SVG format, and the size of the SVG file is 744 bytes, however I compare it with any JPG file the difference is in the size. A JPG file has a size in KB whereas in SVG it is mere bytes. Because SVG files are vector images and don't use as much memory on the PC while JPG files are more the bits
 ### Object Oriented Programming (OOP) 
 #### What are the methods and the property of the shark class? 
-Methods are a special kind of function that are defined within a class.These functions are indented under the Shark class, they are called methods. Methods are a special type of function that is defined inside a class. A class called Shark that has two associated functions, one for swimming and one for being awesome:
+Methods are a special type of function that is defined inside a class. These functions are indented under the Shark class, they are called methods. Methods are a special type of function that is defined inside a class. A class called Shark that has two associated functions
