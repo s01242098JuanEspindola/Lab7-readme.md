@@ -1,4 +1,6 @@
-# Lab7-readme.md
+# Lab7-readme.
+### Executive sumary
+We all know about Python as a programming language. To be more specific, Python is an object-oriented programming language. In object-oriented programming, or OOP, the goal is to make reusable code patterns. This is different from procedural programming where we give a sequence of instructions.
 ### File Compression
 ### Explain the purpose and use of file compression
 The main purpose of compressing a file is to make it smaller so that it takes up less space on your computer.Compressed (zipped) files take up less storage space and can be transferred to other computers more quickly than uncompressed files.
@@ -9,4 +11,5 @@ According to the instructions I found a file in SVG format, and the size of the 
 Methods are a special type of function that is defined inside a class. These functions are indented under the Shark class, they are called methods. Methods are a special type of function that is defined inside a class. A class called Shark that has two associated functions
 ### What is the purpose of a constructor? 
 Also called the __init__ method, you can use it to initialize data. It is the first definition of any class.It is executed as soon as an object of a class is instantiated.
-### What is a class vs. an object and what does it mean to "instantiate an object from a class?"
+### What is a class vs. an object and what does it mean to "instantiate an object from a class?
+The argument to these functions is the word self, which is a reference to objects that are made based on this class. To reference instances (or objects) of the class, self will always be the first parameter, but it need not be the only one.Thus an object is a specific instance of a class; contains real values instead of variables. The class is one of the defining ideas of object-oriented programming.
