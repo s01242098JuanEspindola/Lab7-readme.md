@@ -15,3 +15,4 @@ Also called the __init__ method, you can use it to initialize data. It is the fi
 The argument to these functions is the word self, which is a reference to objects that are made based on this class. To reference instances (or objects) of the class, self will always be the first parameter, but it need not be the only one.Thus an object is a specific instance of a class; contains real values instead of variables. The class is one of the defining ideas of object-oriented programming.
 ### Unified Modeling Language (UML)
 ### Define OMG and describe the purpose of UML
+The OMG defines the purposes of the UML as follows: To provide system architects, engineers, and software developers with the tools for the analysis, design, and implementation of software-based systems, as well as for business process modeling and Similar.
