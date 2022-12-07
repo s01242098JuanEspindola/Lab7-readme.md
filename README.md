@@ -18,7 +18,7 @@ The argument to these functions is the word self, which is a reference to object
 ### Unified Modeling Language (UML)
 ### Define OMG and describe the purpose of UML
 The OMG defines the purposes of the UML as follows: To provide system architects, engineers, and software developers with the tools for the analysis, design, and implementation of software-based systems, as well as for business process modeling and Similar.
-### explain why you matched the terms as you did (under the Unified Modeling Language (UML) heading)
+### Explain why you matched the terms as you did (under the Unified Modeling Language (UML) heading)
 According to the latest program called Shark, we can learn how to build classes and define them in Python.
 
 The object is a class instance. The class pairs up with Sammy. I used the samy shark object using two methods swin() and be awesome().
