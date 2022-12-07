@@ -1,6 +1,8 @@
 # Lab7-readme.
 ### Executive sumary
-We all know about Python as a programming language. To be more specific, Python is an object-oriented programming language. In object-oriented programming, or OOP, the goal is to make reusable code patterns. This is different from procedural programming where we give a sequence of instructions.
+In Lab number 7. We covered what it means Compression through Zip and unzip files 
+We learned to reduce file size and make it easier to transport or store
+We all know about Python as a programming language. In object-oriented programming or OOP, the goal is to make reusable code patterns. In contrast to procedural programming, where we give a sequence of instructions.
 ### File Compression
 ### Explain the purpose and use of file compression
 The main purpose of compressing a file is to make it smaller so that it takes up less space on your computer.Compressed (zipped) files take up less storage space and can be transferred to other computers more quickly than uncompressed files.
@@ -27,3 +29,6 @@ An abstract class can be considered as a model for other classes. It allows you 
 Encapsulation describes the idea of encapsulating data and the methods that work with data within a unit. A class is an example of encapsulation, since it encapsulates all data that is member functions, variables, etc. The goal of hiding information is to ensure that an object's state is always valid by controlling access to attributes that are hidden from the outside world.
 
 Inheritance is the ability of a class to derive or inherit the properties of another class.
+### Conclusion
+In summary, lab number 7 was very practical because we covered how to compress files to ZIP. We did it through SVG files and converted it to ZIP, in the LabIT1025 folder. Additionally, we also learned to program in Python through the processes of Object Oriented Programming Concepts (OOP). We use the tutorials to create a shark program. We use Python IDLE and run the program. We then attach the screens on GitHub. Finally we went back to work on Lucichart, to recreate the shark program.
+
