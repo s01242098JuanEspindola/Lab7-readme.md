@@ -16,3 +16,14 @@ The argument to these functions is the word self, which is a reference to object
 ### Unified Modeling Language (UML)
 ### Define OMG and describe the purpose of UML
 The OMG defines the purposes of the UML as follows: To provide system architects, engineers, and software developers with the tools for the analysis, design, and implementation of software-based systems, as well as for business process modeling and Similar.
+### explain why you matched the terms as you did (under the Unified Modeling Language (UML) heading)
+According to the latest program called Shark, we can learn how to build classes and define them in Python.
+
+The object is a class instance. The class pairs up with Sammy. I used the samy shark object using two methods swin() and be awesome().
+Class: In the last program, the class was represented as a bblueprint to the programmer of an object. I defined a class like Shark which has two functions, the first one is swimming and the other one is awesome.
+
+An abstract class can be considered as a model for other classes. It allows you to create a set of methods that must be created inside any child class created from the abstract class.
+
+Encapsulation describes the idea of encapsulating data and the methods that work with data within a unit. A class is an example of encapsulation, since it encapsulates all data that is member functions, variables, etc. The goal of hiding information is to ensure that an object's state is always valid by controlling access to attributes that are hidden from the outside world.
+
+Inheritance is the ability of a class to derive or inherit the properties of another class.
